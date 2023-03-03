@@ -16,7 +16,7 @@ Z zmiennej SENDER nalęzy ustawić informacje kto jest nadawcą wiadomości.
 W pliku main.py znajduje się metoda "send_reminder_to_borrowers" a w niej zmienna template. Przyjmuje ona wartość wysyłanego komunikatu. Przesyłany tekst można skonfigurowac według własnego pomysłu.
 
 ### Dodatkowe informacje: 
- Date, z którą program porównuje daty z datami z bazy danych ustawiono "sztywno" (ustawione w zmiennej "borowers" w pliku main.py). Zabieg ten służy ukazaniu działania programu przy przykładowej bazie danych dołączonych do repozytorium.
+ Datę, z którą program porównuje daty z datami z bazy danych ustawiono "sztywno" (ustawione w zmiennej "borowers" w pliku main.py). Zabieg ten służy ukazaniu działania programu przy przykładowej bazie danych dołączonych do repozytorium.
  Docelowo program korzysta z daty w chwili uruchomienia programu.
  
  ### Wykorzystane technologie:
