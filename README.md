@@ -1,6 +1,6 @@
 ## Przypomnienie o zwrocie pożyczonej książki!
 
-Program korzysta z baza danych stworzonej w ramach SQLite przechowującej informację o id, imieniu oraz e-mailu czytelnika. Dodatkowo baza przechowuje danę jaką książke czytelnik wypożyczył oraz date, kiedy powinnien ją zwrócić.
+Program korzysta z baza danych stworzonej w ramach SQLite przechowującej informację o id, imieniu oraz e-mailu czytelnika. Dodatkowo baza przechowuje informacje o  książce jaką czytelnik wypożyczył oraz date, kiedy powinnien ją zwrócić.
 Celem programu jest wysyłanie wiadomości e-mail czytelnikowi z przypomnieniem o zwrocie książki.
 Jeśli uruchomisz program w dniu, który przypada na dzień zwrotu lub w dniach późniejszych program wyśle do tej osoby email z komunikatem przypominającym o konieczności zwrotu pożyczonej książki.
 
